@@ -1,0 +1,27 @@
+body{
+    background-size: cover;
+}
+.heading {
+    color: azure;
+    font-weight: bold;
+    font-size: 20px;
+    width: 100%;
+    margin: 0;
+    box-shadow: 6px 6px 6px grey;
+}
+
+.note{
+    font-size: 18px;
+    color: blue;
+}
+.song_name{
+    font-size: 20px;
+}
+canvas {
+    box-shadow: 5px 5px 5px gainsboro;
+    border-radius: 20px;
+    background-color: purple;
+    text-align: center;
+    margin-top: 10%;
+    margin-left: 8%;
+}
