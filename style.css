@@ -1,6 +1,7 @@
-body{
+body {
     background-size: cover;
 }
+
 .heading {
     color: azure;
     font-weight: bold;
@@ -10,13 +11,15 @@ body{
     box-shadow: 6px 6px 6px grey;
 }
 
-.note{
+.note {
     font-size: 18px;
     color: blue;
 }
-.song_name{
+
+.song_name {
     font-size: 20px;
 }
+
 canvas {
     box-shadow: 5px 5px 5px gainsboro;
     border-radius: 20px;
